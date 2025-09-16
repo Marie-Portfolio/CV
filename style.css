@@ -23,10 +23,7 @@ body {
   border-bottom: 2px solid #eee;
   padding-bottom: 15px;
   margin-bottom: 20px;
-}
-
-.nom {
-  font-weight: bold;
+  font-size: 20px;
 }
 
 .photo img {
@@ -34,7 +31,7 @@ body {
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid #ddd;
+  border: 2px solid #2e2d2d;
 }
 
 .section {
@@ -45,7 +42,6 @@ body {
   font-size: 20px;
   margin-bottom: 10px;
   color: #333;
-  color-background: #ee8a4;
   border-bottom: 1px solid #ccc;
   padding-bottom: 5px;
   margin-left: 5px;
